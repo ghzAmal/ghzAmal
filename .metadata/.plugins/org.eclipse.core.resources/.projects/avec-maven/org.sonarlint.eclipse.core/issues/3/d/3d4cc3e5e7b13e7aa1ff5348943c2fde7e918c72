@@ -1,0 +1,12 @@
+
+‡	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Æù½‡HRCRITICALZ
+CODE_SMELL
+f	java:S125"<This block of commented-out lines of code should be removed.(¯Ö ÏHRMAJORZ
+CODE_SMELL
+h	java:S106!"9Replace this use of System.out or System.err by a logger.(ÝÏ™šúÿÿÿÿHRMAJORZ
+CODE_SMELL
+f	java:S125$"<This block of commented-out lines of code should be removed.(Æ §ºH	RMAJORZ
+CODE_SMELL
+h	java:S106&"9Replace this use of System.out or System.err by a logger.(èù²úÿÿÿÿH
+RMAJORZ
+CODE_SMELL

@@ -1,0 +1,9 @@
+INDEX VERSION 1.131+C:\Users\GHOZZI.Amal\Desktop\Esprit\git\.metadata\.plugins\org.eclipse.jdt.core
+1363065039.index
+1089983171.index
+3608966217.index
+1025253780.index
+3726622520.index
+993104044.index
+2727335551.index
+1865797976.index
